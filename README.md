@@ -40,10 +40,10 @@ The entity relationship of the databases is as follows:
 
 ## Summary
 
--According to the table below, 90,398 roles will have to be filled in the next few years. The HR department should intially focus on Senior Enginner and Senior Staff roles as 29,414 and 28,254 positions will need to be filled, respectively. 
--Additionally, 14,222 Engineer positions, 12,243 Staff positions, 4,502 Technique Leader positions, 1,761 Assistant Engineer positions and 2 Manager positions will need to be filled in the next few years.
+- According to the table below, 90,398 roles will have to be filled in the next few years. The HR department should intially focus on Senior Enginner and Senior Staff roles as 29,414 and 28,254 positions will need to be filled, respectively. 
+- Additionally, 14,222 Engineer positions, 12,243 Staff positions, 4,502 Technique Leader positions, 1,761 Assistant Engineer positions and 2 Manager positions will need to be filled in the next few years.
 
 ![Unique_Titles_Retiring](https://github.com/MariaGarzon/Pewlett-Hackard-Analysis/blob/837707dc6c0450dcc1cf9d562363a169444dced5/images/unique_Titles_Retiring.png)
 
--It is important to note there are not enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees. Given the mentorship criteria given by HR, a query helped determine there are only 1,941 employees who are eligible. 
--It is also concerning that only 456 Senior Staff, and 380 Senior Engineers will be avaiable for 57,668 senior roles that will require training. This means each person would have to train approximately 70 people. Additionally, there are no managers available to provide training for the position.
+- It is important to note there are not enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees. Given the mentorship criteria given by HR, a query helped determine there are only 1,941 employees who are eligible. 
+- It is also concerning that only 456 Senior Staff, and 380 Senior Engineers will be avaiable for 57,668 senior roles that will require training. This means each person would have to train approximately 70 people. Additionally, there are no managers available to provide training for the position.
